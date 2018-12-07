@@ -1,0 +1,8 @@
+.stack-work/
+.cabal-sandbox/
+*~
+.*.sw[op]
+tags
+.ghc.environment.*
+dist
+dist-newstyle
